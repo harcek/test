@@ -1,5 +1,8 @@
 iluminati su ajajaj
 ale nehovor
 ale no
+<<<<<<< HEAD
 babka zjedla jabka
+=======
+>>>>>>> f0526fce06df0cbecead27cf0752a17cefefb324
 222

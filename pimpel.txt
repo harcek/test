@@ -3,7 +3,6 @@ ale nehovor
 ale no
 babka zjedla jabka
 222
-ci pana pre jana
 333
 ci pana zabudol som jana
-
+444
